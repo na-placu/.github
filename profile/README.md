@@ -19,7 +19,7 @@
 
 **Na Placu** to mapa placów zabaw, parków i boisk, na której rodzice zaznaczają, że już są albo będą na miejscu. Działa w przeglądarce telefonu i da się ją dodać do ekranu głównego. Na start obejmuje Radzymin.
 
-- **Place, parki i boiska w okolicy** na mapie 2D, 3D i POV, z trasą dojścia.
+- **Place, parki i boiska w okolicy** na mapie 2D, 3D i z poziomu ulicy, z trasą dojścia.
 - **Liczby zamiast ludzi:** nieznajomi widzą tylko, ilu osób można się spodziewać teraz i w najbliższych godzinach.
 - **Znajomi tylko za zgodą:** zapraszasz jednorazowym linkiem (ważny 7 dni), znajomy loguje się i go przyjmuje. Każdego możesz usunąć lub zablokować.
 - **Powiadomienia:** dowiesz się, gdy znajomy wychodzi na plac (🔔 przy jego imieniu) albo gdy w wybranym miejscu zbierze się tyle osób lub znajomych, ile ustawisz, teraz albo w zapowiedziach.
